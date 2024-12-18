@@ -1,2 +1,2 @@
 # Restaurantwebsite
-This is a basic website 
+This is a basic website.
